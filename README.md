@@ -7,7 +7,7 @@ Example on how to setup a dev environment with Django and Celery. Perfect for de
     `mkdir celery-project`
 2. Clone Celery repository:
     `git clone https://github.com/celery/celery.git celery-project` or
-    `git clone https://github.com/celery/celery.git celery-project`
+    `git clone git@github.com:celery/celery.git celery-project`
 3. Clone this repository:
     `git clone https://github.com/rmcomplexity/celery-django-dev.git celery-project` or
     `git clone git@github.com:rmcomplexity/celery-django-dev.git celery-project`
